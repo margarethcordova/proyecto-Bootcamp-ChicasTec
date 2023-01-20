@@ -60,8 +60,10 @@ img{
     justify-content: space-around;
 }
 footer{
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(235, 122, 169);
+    color: white;
     margin: 0;
+    font-size: 20px;
     padding: 10px;
     text-align: center;
     font-weight: bold;
